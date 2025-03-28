@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "05dc",
+      "title": "useNavigate introduced in react-router-dom V6",
+      "body": "useNavigate introduced in react-router-dom V6,  which is the best naming convention instead useHistory",
+      "author": "inaaya"
+    },
+    {
+      "id": "ed98",
+      "title": "useNavigate",
+      "body": "In react dom v6, useHistory is replaced by useNavigate",
+      "author": "Farid"
+    },
+    {
+      "id": "8dc4",
+      "title": "My little brother",
+      "body": "He is too smart and intelligent. ",
+      "author": "inaaya"
+    }
+  ]
+}
